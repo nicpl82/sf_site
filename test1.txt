@@ -1,3 +1,4 @@
 #Created by Nikolay
 Its file for test.
-
+com 1
+com 2
